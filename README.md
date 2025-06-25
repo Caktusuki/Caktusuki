@@ -94,6 +94,11 @@ Always exploring both **frontend** and **backend**, with a love for clean UI and
 </table>
 
 ---
+<!-- VISITOR COUNTER TEXT -->
+<p align="center">
+  <img src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" width="24">
+  <b style="font-size: 16px; color: #15f4ee;">You're visitor number:</b>
+</p>
 
 <!-- VISITOR COUNTER -->
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
