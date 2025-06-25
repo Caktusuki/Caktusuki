@@ -7,7 +7,7 @@
 </p>
 
 <!-- NAME SECTION -->
-<h1><b>Hi there, I'm </b><a href="https://github.com/Caktusuki">Caktusuki</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/Caktusuki">Vicky</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <!-- ABOUT ME -->
