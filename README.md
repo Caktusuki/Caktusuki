@@ -1,92 +1,90 @@
-<!-- Typing animation with cat inline -->
+<!-- NEON INTRO LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+Vicky+(Viky)+%7C+Loves+to+Code+%7C+Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="100" alt="Cat Icon" />
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
+</p>
+
+<h1 align="center">
+  Hi, I'm <a href="https://github.com/Caktusuki">Vicky (Cactusuki)</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Loves+to+Code+%7C+Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="90" alt="Cat Icon" />
 </p>
 
 ---
 
-## 👋 Hi, I'm Vicky (Cactusuki)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> <strong>About Me</strong>
 
-🎓 B.Tech CSE student at Assam Down Town University  
-🌱 Learning: React, Java, MongoDB, Python  
-🔭 Building: My personal portfolio site  
-👯 Collab on: Beginner-friendly open source projects  
-📫 Reach me: **vikyrajdekawork@gmail.com**  
-📄 Know more: [Resume](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
-⚡ Fun fact: I debug better at 2AM than 2PM
+<img align="right" width=220px src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+
+- 🎓 B.Tech CSE student @ Assam Down Town University
+- 🌱 Currently learning: React, Java, MongoDB, Python
+- 🚀 Exploring API integrations and clean UI builds
+- ✅ Love helping beginners in open source
+- ✨ I debug better at 2AM than 2PM
+- ✉ Reach me: **vikyrajdekawork@gmail.com**
 
 ---
 
-## 🛠️ Languages & Tools (Icons Only Style)
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"> <strong>Skills</strong>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" width="40"/>
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="40"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="40"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="40"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="40"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" width="40"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="40"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="40"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="40"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="40"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="40"/>
-  <img src="https://img.shields.io/badge/-MongoDB-17202C?style=for-the-badge&logo=mongodb&logoColor=4EA94B" width="40"/>
-  <img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="40"/>
+###### Languages & Syntax:
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+
+###### Frontend:
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+
+###### Backend:
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
+
+###### Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+
+###### Tools:
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> <strong>GitHub Stats</strong>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caktusuki&theme=tokyonight" width="420"/>
 </p>
 
 ---
 
-## 🧠 Progress on Skills
-
-**React Learning**
-![React Progress](https://progress-bar.dev/70/?title=React)
-
-**MongoDB Practice**
-![MongoDB Progress](https://progress-bar.dev/50/?title=MongoDB)
-
-**Node.js Confidence**
-![Node.js Progress](https://progress-bar.dev/65/?title=Node.js)
-
----
-
-## 🎮 Hobbies
-
-- 🎮 Gaming (strategy, action, and open world)  
-- 📖 Reading tech blogs & novels  
-- 🧪 Experimenting with APIs and design  
-- 🐱 Cat energy when I code: silent, sharp, and curious
-
----
-
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Cactusuki-black?style=for-the-badge&logo=github)](https://github.com/Caktusuki)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikyraj--deka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikyraj-deka)
-
----
-
-## 🏆 Achievements
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Caktusuki&theme=radical&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Caktusuki&theme=darkhub&row=1&column=6&no-bg=true&no-frame=true" width="95%"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 👉 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&show_icons=true&theme=radical&count_private=true" width="500"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Caktusuki&theme=radical" width="500"/>
+  <a href="mailto:vikyrajdekawork@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://www.linkedin.com/in/vikyraj-deka"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Caktusuki"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👀 Visitor Count
-
+<!-- Neon OUTRO -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Caktusuki&label=Profile%20Views&color=0e75b6&style=flat" alt="Caktusuki" />
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
 </p>
