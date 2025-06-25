@@ -4,7 +4,7 @@
 <!-- TYPING INTRO (ANIMATED) WITH IMAGE INLINE -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=1200&color=15F4EE&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vicky+aka+Cactus.;Gamer+%7C+Lo-fi+Coder+%7C+Fullstack+Learner" />
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="80" style="margin-left: 10px;" />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="80" style="margin-left: 20px;" />
 </p>
 
 <!-- NAME SECTION -->
