@@ -1,11 +1,10 @@
 <!-- NEON LINE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- TYPING INTRO (ANIMATED) -->
+<!-- TYPING INTRO (ANIMATED) WITH IMAGE INLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=15F4EE&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vicky+aka+Cactus.;Gamer+%7C+Lo-fi+Coder+%7C+Fullstack+Learner" />
-  <br>
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="100" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=1200&color=15F4EE&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vicky+aka+Cactus.;Gamer+%7C+Lo-fi+Coder+%7C+Fullstack+Learner" />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="80" style="margin-left: 10px;" />
 </p>
 
 <!-- NAME SECTION -->
@@ -20,7 +19,7 @@
 <!-- Custom right-side GIF -->
 <img align="right" width="180px" alt="custom gif" src="https://github.com/Caktusuki/Caktusuki/blob/main/7cee05f7525f90d6c117623c0595c234.gif?raw=true" />
 
-```
+```fira code
 🎓 B.Tech CSE student at Assam Down Town University  
 🌱 Learning: React, Node.js, MongoDB, Python  
 🔭 Building: My personal portfolio, JS utilities, async apps  
@@ -41,6 +40,8 @@
   <a href="https://www.linkedin.com/in/vikyraj-deka"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Caktusuki"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
+
+---
 
 <!-- SKILLS -->
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"> Skills
@@ -75,18 +76,20 @@
 </span>
 </div>
 
+---
+
 <!-- GITHUB STATS -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <table align="center">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&theme=nightowl&show_icons=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caktusuki&theme=nightowl&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&theme=nightowl&show_icons=true&count_private=true" />
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caktusuki&theme=nightowl&hide_border=false" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Caktusuki&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Caktusuki&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
