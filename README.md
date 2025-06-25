@@ -4,10 +4,11 @@
 <!-- TYPING INTRO (ANIMATED) WITH IMAGE INLINE -->
 <p align="center">
   <span>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4500&pause=1200&color=15F4EE&center=true&vCenter=true&width=800&lines=$+echo+%27Hey%2C+I%27m+Vicky+aka+Cactus%27;$+console.log('Code+%26+Chill');$+npx+start-my-journey;$+Dark+mode+enabled..." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=1200&color=15F4EE&center=true&vCenter=true&width=700&lines=%24+echo+'Hey%2C+I%27m+Vicky+aka+Cactus';console.log('Code+%26+Chill');if+(darkMode)+%7B+devPower+*=%E2%88%9E%3B+%7D;while+(alive)+%7B+hack()%3B+game()%3B+%7D;assert(bestFriend+===+debugger)%3B" />
     <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="70" style="margin-left: 12px; vertical-align: middle;" />
   </span>
 </p>
+
 
 <!-- NAME SECTION -->
 <h1 align="center">
