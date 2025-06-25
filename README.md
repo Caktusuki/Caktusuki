@@ -1,6 +1,11 @@
-<!-- Typing animation with cyan color and pixel cat -->
+<!-- Typing animation with cyan color and slower pace -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=800&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+Vicky+(Viky)+%F0%9F%90%B1;Loves+to+code;Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+Vicky+(Viky);Loves+to+code;Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
+</p>
+
+<!-- Pixel Cat image below the animated header -->
+<p align="center">
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/istockphoto-1269703326-612x612.jpg?raw=true" width="120" alt="Pixel Cat saying Meow!" />
 </p>
 
 ---
@@ -9,8 +14,14 @@
 
 🎓 B.Tech CSE student at Assam Down Town University  
 💡 Passionate about building things that work, not just compile  
-🌱 Exploring Full Stack Web Development, APIs, Databases & Logic  
+🌱 I’m currently learning: React, MongoDB, Python, Java  
 💬 Ask me about: React, Vue, GSAP  
+🔭 I’m currently working on: **Portfolio Website**  
+👯 I’m looking to collaborate on: **Open source frontend projects**  
+🤝 I’m looking for help with: **Backend optimization using Node.js & MongoDB**  
+📫 Reach me at: `vikyrajdekawork@`  
+📄 Know about my experience: [Resume](#)  
+📝 I write at: [Blog](#)  
 ⚡ Fun fact: I think I’m funny, but my code takes itself seriously
 
 ---
@@ -38,6 +49,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql)
 
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+
 ---
 
 ## 🎮 Hobbies
@@ -50,7 +67,7 @@
 
 ## 🔗 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Cactusuki-black?style=for-the-badge&logo=github)](https://github.com/Cactusuki)  
+[![GitHub](https://img.shields.io/badge/GitHub-Cactusuki-black?style=for-the-badge&logo=github)](https://github.com/Caktusuki)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vikyraj--deka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikyraj-deka)
 
 ---
@@ -58,23 +75,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cactusuki&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cactusuki&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Cactusuki&theme=onedark&no-frame=true&column=3&margin-w=15" />
-</p>
-
----
-
-## 🔝 Top Skills
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cactusuki&layout=compact&theme=react" />
-</p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cactusuki&label=Profile%20Views&color=0e75b6&style=flat" alt="Cactusuki" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&show_icons=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Caktusuki&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
+  <img sr
