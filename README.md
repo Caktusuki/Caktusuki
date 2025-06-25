@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=H(I+Vicky+like+typing)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=450&lines=Hi+Vicky+(Viky);Loves+to+code;Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
 </p>
 
-🎓 B.Tech CSE student at Assam Down Town University  
-💡 Passionate about Web Dev, Backend Systems & Real-World Problem Solving  
-🧠 Writing code that feels human, not robotic — one function at a time  
-🌱 Exploring Full Stack, API integration, and scalable logic
+🎓 B.Tech CSE student 
+💡 Passionate about building things that work, not just compile  
+🌱 Exploring Full Stack Web Development, APIs, Databases & Logic
 
 ---
 
@@ -24,6 +23,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+## 🎮 Hobbies
+
+- 🎮 Gaming (strategy, action, simulation)
+- 📖 Reading (tech blogs, mysteries, and sci-fi)
+- 🧭 Exploring new frameworks and tools
 
 ---
 
