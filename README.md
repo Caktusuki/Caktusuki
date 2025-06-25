@@ -4,13 +4,13 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm <a href="https://github.com/Caktusuki">Vicky</a>
+  Hi, I'm <a href="https://github.com/Caktusuki">Vicky (Cactusuki)</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Loves+to+Code+%7C+Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="90" alt="Cat Icon" />
+  <img src="https://i.pinimg.com/originals/54/5b/00/545b00edc94fcfe70f528812b12f7e2e.gif" width="90" alt="Pixel Cat Icon" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 - 🚀 Exploring API integrations and clean UI builds
 - ✅ Love helping beginners in open source
 - ✨ I debug better at 2AM than 2PM
-- ✉ Reach me: **vikyrajdekawork@gmail.com**
+- ✉️ Reach me: **vikyrajdekawork@gmail.com**
 
 ---
 
