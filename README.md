@@ -1,6 +1,15 @@
 <!-- NEON LINE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<!-- TYPING INTRO (ANIMATED) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=15F4EE&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Vicky+aka+Cactus.;B.Tech+CS+Student+%7C+Developer+%7C+Gamer;Let's+build+something+cool+today+%F0%9F%9A%80" />
+</p>
+
+<!-- STATIC IMAGE RIGHT BELOW TYPING -->
+<p align="center">
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="60%" />
+</p>
 <!-- NAME SECTION -->
 <h1><b>Hi, I'm <a href="https://github.com/Caktusuki">Vicky</a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
