@@ -14,7 +14,7 @@
 🔭 Building: My personal portfolio site  
 👯 Collab on: Beginner-friendly open source projects  
 📫 Reach me: **vikyrajdekawork@gmail.com**  
-📄 Know more: [Resume](#)  
+📄 Know more: [Resume](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
 ⚡ Fun fact: I debug better at 2AM than 2PM
 
 ---
