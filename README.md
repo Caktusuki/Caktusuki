@@ -1,9 +1,8 @@
-<!-- Typing animation with cyan color and inline cat -->
-<p align="center" style="background-color:black">
+<!-- Typing animation with cat (black background) inline -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+Vicky+(Viky)+%7C+Loves+to+Code+%7C+Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/images.png?raw=true" width="50" style="background:black; border-radius:6px;" alt="Cat Icon" />
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/cat_black_bg.png" width="50" alt="Cat Icon" />
 </p>
-
 
 ---
 
@@ -57,20 +56,27 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Caktusuki&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Caktusuki&theme=onedark&no-frame=true&column=3&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&show_icons=true&theme=react" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Caktusuki&theme=react&date_format=M%20j%5B%2C%20Y%5D" width="350"/>
 </p>
 
 ---
 
-## 🔝 Top Skills
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caktusuki&layout=compact&theme=react" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Caktusuki&theme=onestar&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
+## 🔝 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caktusuki&layout=compact&theme=react" width="350" />
 </p>
 
 ---
