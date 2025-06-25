@@ -18,6 +18,8 @@
 📄 Know more: [Resume](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
 ⚡ Fun fact: I debug better at 2AM than 2PM
 
+<img align="right" width=200px alt="GIF" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
+
 ---
 
 ## 🛠️ Languages & Tools (Icons Only Style)
