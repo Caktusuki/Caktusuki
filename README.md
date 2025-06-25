@@ -13,6 +13,10 @@
   <img src="https://github.com/Caktusuki/Caktusuki/blob/main/7cee05f7525f90d6c117623c0595c234.gif?raw=true" width="90" alt="Pixel Cat Icon" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/7cee05f7525f90d6c117623c0595c234.gif?raw=true" width="120" alt="Cat Placement Again" />
+</p>
+
 ---
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> <strong>About Me</strong>
@@ -50,7 +54,7 @@
 ---
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> <strong>GitHub Stats</strong>
-
+<br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caktusuki&theme=tokyonight" width="420"/>
