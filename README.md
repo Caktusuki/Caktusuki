@@ -1,8 +1,9 @@
-<!-- Typing animation with cat (black background) inline -->
+<!-- Typing animation with updated new cat inline -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+Vicky+(Viky)+%7C+Loves+to+Code+%7C+Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
-  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/cat_black_bg.png" width="50" alt="Cat Icon" />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="50" alt="New Cat Icon" />
 </p>
+
 
 ---
 
