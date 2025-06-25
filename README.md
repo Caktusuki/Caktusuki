@@ -5,10 +5,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=1200&color=15F4EE&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vicky+aka+Cactus.;B.Tech+CS+Student+%7C+Developer+%7C+Gamer" />
 </p>
+
 <!-- STATIC IMAGE BELOW ANIMATION -->
 <p align="center">
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="40%" height="40%"" />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="40%" height="40%" />
 </p>
+
 <!-- NAME SECTION -->
 <h1><b>Hi, I'm <a href="https://github.com/Caktusuki">Vicky</a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
@@ -24,8 +26,8 @@ Always exploring both **frontend** and **backend**, with a love for clean UI and
 
 - 📚 Learning: React, Node.js, MongoDB, Python  
 - 🧪 Building: JS utilities, UI clones, API-based apps  
-- 🎮 Gamer | 🎧 Lo-fi Coder | 💬 Always open to collab  
-- 📫 Reach me: <a href="mailto:vikyrajdekawork@gmail.com">vikyrajdekawork@gmail.com</a>
+- 🎮 Gamer | 🎵 Lo-fi Coder | 💬 Always open to collab  
+- 📢 Reach me: <a href="mailto:vikyrajdekawork@gmail.com">vikyrajdekawork@gmail.com</a>
 
 ---
 
@@ -49,31 +51,31 @@ Always exploring both **frontend** and **backend**, with a love for clean UI and
 
 <div align="center">
 
-<!-- Languages -->
+<!-- Languages in One Line -->
 <span>
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-</span><br>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</span><br><br>
 
 <!-- Frontend -->
 <span>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-</span><br>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</span><br><br>
 
 <!-- Backend -->
 <span>
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-</span><br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+</span><br><br>
 
 <!-- Tools -->
 <span>
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </span>
 
 </div>
