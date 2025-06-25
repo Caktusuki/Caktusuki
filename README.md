@@ -1,7 +1,7 @@
 <!-- Typing animation with cyan color and inline cat -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+Vicky+(Viky)+%7C+Loves+to+Code+%7C+Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/images.png?raw=true" width="80" alt="Cat Icon" />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/images.png?raw=true" width="180" alt="Cat Icon" />
 </p>
 
 ---
