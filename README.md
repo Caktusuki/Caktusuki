@@ -3,7 +3,7 @@
 
 <!-- TYPING INTRO (ANIMATED) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=1200&color=15F4EE&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vicky+aka+Cactus.;B.Tech+CS+Student+%7C+Developer+%7C+Gamer" />  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="40%" height="40%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=1200&color=15F4EE&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vicky+aka+Cactus.;B.Tech+CS+Student+%7C+Developer+%7C+Gamer" />  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="40px" height="40px" />
 </p>
 
 <!-- NAME SECTION -->
