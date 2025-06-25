@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=450&lines=Hi+Vicky+(Viky);Loves+to+code;Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+Vicky+(Viky);Loves+to+code;Gamer+%7C+Reader+%7C+Explorer" alt="Typing SVG" />
 </p>
 
 🎓 B.Tech CSE student 
@@ -28,8 +28,8 @@
 
 ## 🎮 Hobbies
 
-- 🎮 Gaming (strategy, action, simulation)
-- 📖 Reading (tech blogs, mysteries, and sci-fi)
+- 🎮 Gaming (strategy, action, simulation)  
+- 📖 Reading (tech blogs, mysteries, and sci-fi)  
 - 🧭 Exploring new frameworks and tools
 
 ---
@@ -37,6 +37,6 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Cactusuki"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:vikyrajdekawork@"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
