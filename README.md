@@ -21,24 +21,21 @@
 
 ## 🛠️ Languages & Tools
 
-### Programming Languages  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frontend  
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-### Backend & Databases  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_c.png" width="130"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_java.png" width="130"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_javascript.png" width="160"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_python.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_react.png" width="130"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_tailwindcss.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_bootstrap.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_html5.png" width="130"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_css3.png" width="130"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_nodejs.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_expressjs.png" width="160"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_mongodb.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/badge_mysql.png" width="140"/>
+</p>
 
 ---
 
