@@ -22,7 +22,7 @@
 <!-- Custom right-side GIF -->
 <img align="right" width="180px" alt="custom gif" src="https://github.com/Caktusuki/Caktusuki/blob/main/7cee05f7525f90d6c117623c0595c234.gif?raw=true" />
 
-```fira code
+
 🎓 B.Tech CSE student at Assam Down Town University  
 🌱 Learning: React, Node.js, MongoDB, Python  
 🔭 Building: My personal portfolio, JS utilities, async apps  
@@ -30,7 +30,7 @@
 📫 Email: vikyrajdekawork@gmail.com  
 📄 Resume: [Click to view](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
 ⚡ Fun fact: I debug better at 2AM than 2PM
-```
+
 
 <!-- PROFILE TROPHIES -->
 <div align="center">
