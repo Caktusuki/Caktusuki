@@ -10,10 +10,13 @@
 
 ## 🚀 About Me
 
+<img align="right" width="200px" alt="cat aesthetic" src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" />
+
 - 🎓 **B.Tech CSE** student at Assam Down Town University
 - 💻 **Full Stack Developer** passionate about creating digital solutions
 - 🌱 Currently exploring **Next.js, TypeScript, Django & Docker**
 - 🎮 Gamer who codes better at 2AM than 2PM
+- 🐱 Cat lover & aesthetic enthusiast
 - 📫 Reach me: **vikyrajdekawork@gmail.com**
 
 ---
