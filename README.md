@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="200px" alt="cat aesthetic" src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" />
+<img align="right" width="180px" alt="animated gif" src="https://github.com/Caktusuki/Caktusuki/blob/main/7cee05f7525f90d6c117623c0595c234.gif?raw=true" />
 
 - 🎓 **B.Tech CSE** student at Assam Down Town University
 - 💻 **Full Stack Developer** passionate about creating digital solutions
@@ -75,11 +75,10 @@ Git & GitHub • REST APIs • JSON • WebSocket • Docker
 
 I'm always open to collaboration! If you'd like to contribute to any of my projects:
 
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
+1. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
+2. **Commit** your changes (`git commit -m 'Add amazing feature'`)
+3. **Push** to the branch (`git push origin feature/amazing-feature`)
+4. **Open** a Pull Request
 
 Feel free to open issues for bugs, feature requests, or just to say hi! 
 
@@ -88,6 +87,8 @@ Feel free to open issues for bugs, feature requests, or just to say hi!
 <div align="center">
 
 **"Code is like humor. When you have to explain it, it's bad."** 
+
+<br>
 
 ![Visitor Count](https://profile-counter.glitch.me/Caktusuki/count.svg)
 
