@@ -1,1 +1,61 @@
- <!-- NEON LINE --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> <!-- TYPING INTRO (ANIMATED) WITH IMAGE INLINE --> <p align="center"> <span> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=1200&color=15F4EE&center=true&vCenter=true&width=700&lines=%24+echo+'Hey%2C+I%27m+Vicky+aka+Cactus';console.log('Code+%26+Chill');if+(darkMode)+%7B+devPower+*=%E2%88%9E%3B+%7D;while+(alive)+%7B+hack()%3B+game()%3B+%7D;assert(bestFriend+===+debugger)%3B" /> <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="70" style="margin-left: 12px; vertical-align: middle;" /> </span> </p> <!-- NAME SECTION --> <h1 align="center"> Hi, I'm <a href="https://github.com/Caktusuki">Vicky</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1> <!-- ABOUT ME --> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me*** <!-- Custom right-side GIF --> <img align="right" width="180px" alt="custom gif" src="https://github.com/Caktusuki/Caktusuki/blob/main/7cee05f7525f90d6c117623c0595c234.gif?raw=true" /> 🎓 B.Tech CSE student at Assam Down Town University 🌱 Learning: React, Node.js, MongoDB, Python 🔭 Building: My personal portfolio, JS utilities, async apps 🎮 Gamer | 🎵 Lo-fi Coder | 💬 Open to collab 📫 Email: vikyrajdekawork@gmail.com 📄 Resume: [Click to view](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf) ⚡ Fun fact: I debug better at 2AM than 2PM <!-- PROFILE TROPHIES --> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Caktusuki&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" /> </div> <!-- SOCIAL LINKS --> <div align="center"> <a href="mailto:vikyrajdekawork@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=red" /></a> <a href="https://www.linkedin.com/in/vikyraj-deka"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Caktusuki"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a> </div> --- <!-- SKILLS --> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"> Skills <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <div align="center"> <!-- Languages --> <span> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> </span><br><br> <!-- Frontend --> <span> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> </span><br><br> <!-- Backend --> <span> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" /> </span><br><br> <!-- Tools --> <span> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </span> </div> --- <!-- GITHUB STATS --> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats <table align="center"> <tr> <td width="50%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&theme=nightowl&show_icons=true&count_private=true" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caktusuki&theme=nightowl&hide_border=false" /> </td> <td width="50%" align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Caktusuki&theme=nightowl&hide_border=false&langs_count=10"/> </td> </tr> </table> <!-- VISITOR COUNTER --> <p align="center"> <img src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif" width="24"> <b style="font-family: 'Fira Code', monospace; font-size: 16px; color: #15f4ee;">You're visitor number:</b> </p> <div align="center" style="display: flex; align-items: center; justify-content: center;"> <img src="https://github.com/Caktusuki/Caktusuki/blob/main/7cee05f7525f90d6c117623c0595c234.gif?raw=true" width="30"> <img src="https://profile-counter.glitch.me/Caktusuki/count.svg"> <img src="https://github.com/Caktusuki/Caktusuki/blob/main/7cee05f7525f90d6c117623c0595c234.gif?raw=true" width="30"> </div> <!-- NEON BOTTOM LINE --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- TOP NEON LINE -->
+<p align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="neon divider">
+</p>
+
+<!-- TYPING INTRO + AVATAR -->
+<p align="center">
+  <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4200&pause=1200&color=15F4EE&center=true&vCenter=true&width=640&lines=%24+echo+'Hey%2C+I'm+Vicky+(aka+Cactus)';console.log('Code+%26+Chill');while(alive)%7B+build();+learn();+ship();+%7D" alt="typing intro">
+    <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="64" style="margin-left:12px;vertical-align:middle;border-radius:50%" alt="Vicky avatar">
+  </span>
+</p>
+
+<!-- NAME -->
+<h2 align="center">Hi, I'm <a href="https://github.com/Caktusuki">Vicky</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="wave"></h2>
+
+<!-- ABOUT (1–screen, no scroll) -->
+<p align="center">
+  B.Tech CSE @ Assam Down Town University · Building PERN apps & JS utilities · Open to collab ·
+  <a href="mailto:vikyrajdekawork@gmail.com">Email</a> ·
+  <a href="https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf">Resume</a>
+</p>
+
+<!-- SKILLS (compact) -->
+<p align="center">
+  <!-- Languages -->
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000">
+  <!-- FE/BE -->
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=fff">
+  <img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=flat">
+  <!-- DB -->
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
+  <!-- Tools -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+</p>
+
+<!-- STATS (compact, same row) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" height="150" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caktusuki&theme=nightowl&layout=compact&hide_border=true&langs_count=6" height="150" alt="top languages">
+</p>
+
+<!-- VISITOR COUNTER (working) -->
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaktusuki&title=Visitors&edge_flat=false" alt="Visitor Count">
+</p>
+
+<!-- BOTTOM NEON LINE -->
+<p align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="neon divider">
+</p>
