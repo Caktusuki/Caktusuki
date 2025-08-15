@@ -1,95 +1,60 @@
-# Hi, I'm Vicky 👋
+# Hi there, I'm Vicky 👋
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;B.Tech+CSE+Student;Code+%26+Coffee+Enthusiast)
-
-</div>
+🚀 **B.Tech CSE Student | Full-Stack Developer (Learning & Building)**  
+💡 Passionate about web development, APIs, and solving real-world problems with code.  
+🌱 Currently exploring advanced frameworks and backend scalability.
 
 ---
 
-## 🚀 About Me
+## 🛠 Tech Stack
 
-<img align="right" width="180px" alt="animated gif" src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/7cee05f7525f90d6c117623c0595c234.gif" />
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- 🎓 **B.Tech CSE** student at Assam Down Town University
-- 💻 **Full Stack Developer** passionate about creating digital solutions
-- 🌱 Currently exploring **Next.js, TypeScript, Django & Docker**
-- 🎮 Gamer who codes better at 2AM than 2PM
-- 🐱 Cat lover & aesthetic enthusiast
-- 📫 Reach me: **vikyrajdekawork@gmail.com**
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
----
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🛠️ Tech Stack
-
-**Frontend**
-```
-HTML • CSS • JavaScript • TypeScript • React.js • Bootstrap • Tailwind CSS • Next.js
-```
-
-**Backend**
-```
-Node.js • Express.js • Python • Java • PHP • Django
-```
-
-**Databases**
-```
-PostgreSQL • MySQL • MongoDB • SQLite
-```
-
-**Tools & Technologies**
-```
-Git & GitHub • REST APIs • JSON • WebSocket • Docker
-```
+**Other Tools & Tech:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caktusuki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Caktusuki&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caktusuki&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
+![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikyrajdekawork@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikyraj-deka)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caktusuki)
-
-</div>
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🤝 Contributing
-
-I'm always open to collaboration! If you'd like to contribute to any of my projects:
-
-1. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-2. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-3. **Push** to the branch (`git push origin feature/amazing-feature`)
-4. **Open** a Pull Request
-
-Feel free to open issues for bugs, feature requests, or just to say hi! 
-
----
-
-<div align="center">
-
-**"Code is like humor. When you have to explain it, it's bad."** 
-
-<br>
-
-![Visitor Count](https://profile-counter.glitch.me/Caktusuki/count.svg)
-
-</div>
+## 📚 Currently Learning
+- TypeScript
+- MongoDB
+- Docker
+- Next.js
