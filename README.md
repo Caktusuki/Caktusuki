@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="180px" alt="animated gif" src="https://github.com/Caktusuki/Caktusuki/blob/main/7cee05f7525f90d6c117623c0595c234.gif?raw=true" />
+<img align="right" width="180px" alt="animated gif" src="https://raw.githubusercontent.com/Caktusuki/Caktusuki/main/7cee05f7525f90d6c117623c0595c234.gif" />
 
 - 🎓 **B.Tech CSE** student at Assam Down Town University
 - 💻 **Full Stack Developer** passionate about creating digital solutions
