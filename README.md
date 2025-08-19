@@ -26,9 +26,9 @@
   <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="150" alt="Sleeping Cat" />
   </div>
 
-  <!-- Right side (Funny cat GIF) -->
+  <!-- Right side (Tenor GIF) -->
   <div style="margin-left: 20px;">
-    <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/funny-cats-funny.gif?raw=true" width="200" alt="Funny Cat GIF" />
+    <img src="https://media.tenor.com/7Kg4UQquQtAAAAP/cat-funny.gif" width="200" alt="Funny Cat Reaction" />
   </div>
 
 </div>
