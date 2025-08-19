@@ -88,18 +88,17 @@
 
 ---
 
-<!-- VISITOR COUNTER (NO SKULL) -->
+<!-- VISITOR COUNTER (WITH NEW GIF) -->
 <p align="center">
   <b style="font-family: 'Fira Code', monospace; font-size: 16px; color: #15f4ee;">
     You're visitor number:
   </b>
 </p>
 <div align="center">
-  <img src="https://media1.tenor.com/m/zBc1XhcbTSoAAAAC/nyan-cat-rainbow.gif" width="30" />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/funny-cats-funny.gif?raw=true" width="30" />
   <img src="https://komarev.com/ghpvc/?username=Caktusuki" />
-  <img src="https://media1.tenor.com/m/zBc1XhcbTSoAAAAC/nyan-cat-rainbow.gif" width="30" />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/funny-cats-funny.gif?raw=true" width="30" />
 </div>
-
 
 <!-- NEON BOTTOM LINE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
