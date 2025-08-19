@@ -1,6 +1,9 @@
+<!-- NEON TOP LINE -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
+
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=1200&color=15F4EE&center=true&vCenter=true&width=700&lines=%24+echo+'Hey%2C+I%27m+Vicky+aka+Cactus';console.log('Code+%26+Chill');if+(darkMode)+%7B+devPower+*=%E2%88%9E%3B+%7D;while+(alive)+%7B+hack()%3B+game()%3B+%7D;assert(bestFriend+===+debugger)%3B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=1200&color=15F4EE&center=true&vCenter=true&width=700&lines=Hi%2C+it%27s+me+Vicky+aka+Cactus" />
 </p>
 
 <!-- NAME SECTION -->
@@ -9,39 +12,23 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
-
 ## 👨‍💻 About Me
-
-<table>
+<table style="border-collapse: collapse; border: none;" cellpadding="0" cellspacing="0">
   <tr>
     <!-- Left side (About text) -->
-    <td width="70%" align="left">
-
+    <td width="70%" align="left" style="border: none; padding: 0;">
 🎓 B.Tech CSE student at Assam Down Town University  
 🌱 Currently exploring **React | Node.js | MongoDB | Python**  
 🔭 Building: Portfolio + Async Apps  
 🎮 Gamer | 🎵 Lo-fi Coder | 🤝 Open to collaboration  
 📄 [Resume](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
- </td>
-<!-- Right side (Funny cat GIF) -->
-    <td width="30%" align="right">
+    </td>
+    <!-- Right side (Funny cat GIF only) -->
+    <td width="30%" align="right" style="border: none; padding: 0;">
       <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/funny-cats-funny.gif?raw=true" width="200" alt="Funny Cat GIF" />
-      <br />
-      <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="120" alt="Sleeping Cat" />
     </td>
   </tr>
 </table>
-
-
-  <!-- Right side (Funny cat GIF + Sleeping cat below if needed) -->
-  <div style="flex-shrink: 0; margin-left: 20px; text-align: right;">
-    <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/funny-cats-funny.gif?raw=true" width="220" alt="Funny Cat GIF" />
-    <br />
-    <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="130" alt="Sleeping Cat" />
-  </div>
-
-</div>
-
 
 ---
 
