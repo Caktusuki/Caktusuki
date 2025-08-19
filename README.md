@@ -12,18 +12,26 @@
 
 ## 👨‍💻 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <!-- Left side (About text) -->
-  <div style="flex: 1; text-align: left;">
+<table>
+  <tr>
+    <!-- Left side (About text) -->
+    <td width="70%" align="left">
 
 🎓 B.Tech CSE student at Assam Down Town University  
 🌱 Currently exploring **React | Node.js | MongoDB | Python**  
 🔭 Building: Portfolio + Async Apps  
 🎮 Gamer | 🎵 Lo-fi Coder | 🤝 Open to collaboration  
 📄 [Resume](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
+ </td>
+<!-- Right side (Funny cat GIF) -->
+    <td width="30%" align="right">
+      <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/funny-cats-funny.gif?raw=true" width="200" alt="Funny Cat GIF" />
+      <br />
+      <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="120" alt="Sleeping Cat" />
+    </td>
+  </tr>
+</table>
 
-  </div>
 
   <!-- Right side (Funny cat GIF + Sleeping cat below if needed) -->
   <div style="flex-shrink: 0; margin-left: 20px; text-align: right;">
