@@ -15,11 +15,7 @@
 
 <!-- ABOUT ME -->
 ## **About Me**
-
-<div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/user-attachments/assets/19ebb011-fd2d-4868-b07c-b272aab9dfe7" width="150" alt="Custom GIF" />
-</div>
-
+![Image](https://github.com/user-attachments/assets/19ebb011-fd2d-4868-b07c-b272aab9dfe7)
 👤  
 🎓 B.Tech CSE student at Assam Down Town University  
 🌱 Learning: React, Node.js, MongoDB, Python  
