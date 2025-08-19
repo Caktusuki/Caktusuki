@@ -1,6 +1,3 @@
-<!-- NEON TOP LINE -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
-
 <!-- TYPING INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=1200&color=15F4EE&center=true&vCenter=true&width=700&lines=%24+echo+'Hey%2C+I%27m+Vicky+aka+Cactus';console.log('Code+%26+Chill');if+(darkMode)+%7B+devPower+*=%E2%88%9E%3B+%7D;while+(alive)+%7B+hack()%3B+game()%3B+%7D;assert(bestFriend+===+debugger)%3B" />
@@ -16,11 +13,12 @@
 <!-- ABOUT ME -->
 ## **About Me**
 
-<div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/user-attachments/assets/19ebb011-fd2d-4868-b07c-b272aab9dfe7" width="150" alt="Funny Cats GIF" />
+<div style="float: right; margin-left: 20px; text-align: center;">
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="150" alt="Sleeping Cat" />
+  <br />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/funny-cats-funny.gif?raw=true" width="120" alt="Funny Cats GIF" />
 </div>
 
-👤   
 🎓 B.Tech CSE student at Assam Down Town University  
 🌱 Learning: React, Node.js, MongoDB, Python  
 🔭 Building: My personal portfolio, JS utilities, async apps  
