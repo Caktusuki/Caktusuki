@@ -95,10 +95,11 @@
   </b>
 </p>
 <div align="center">
-  <img src="https://media1.tenor.com/m/zBc1XhcbTSoAAAAC/nyan-cat-rainbow.gif" width="30">
-  <img src="https://profile-counter.glitch.me/Caktusuki/count.svg">
-  <img src="https://media1.tenor.com/m/zBc1XhcbTSoAAAAC/nyan-cat-rainbow.gif" width="30">
+  <img src="https://media1.tenor.com/m/zBc1XhcbTSoAAAAC/nyan-cat-rainbow.gif" width="30" />
+  <img src="https://komarev.com/ghpvc/?username=Caktusuki" />
+  <img src="https://media1.tenor.com/m/zBc1XhcbTSoAAAAC/nyan-cat-rainbow.gif" width="30" />
 </div>
+
 
 <!-- NEON BOTTOM LINE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
