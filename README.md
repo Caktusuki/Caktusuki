@@ -15,13 +15,17 @@
 
 <!-- ABOUT ME -->
 ## **About Me**
-![Image](https://github.com/user-attachments/assets/19ebb011-fd2d-4868-b07c-b272aab9dfe7)
-👤  
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/user-attachments/assets/19ebb011-fd2d-4868-b07c-b272aab9dfe7" width="150" alt="Funny Cats GIF" />
+</div>
+
+👤   
 🎓 B.Tech CSE student at Assam Down Town University  
 🌱 Learning: React, Node.js, MongoDB, Python  
 🔭 Building: My personal portfolio, JS utilities, async apps  
 🎮 Gamer | 🎵 Lo-fi Coder | 💬 Open to collab  
-📫 Email: vikyrajdekawork@gmail.com  
+📫 Email: [vikyrajdekawork@gmail.com](mailto:vikyrajdekawork@gmail.com)  
 📄 [Resume](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
 ⚡ **Fun fact:** I debug better at 2AM than 2PM
 
