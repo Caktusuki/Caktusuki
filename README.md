@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
-  <!-- Left side (About text) -->
+  <!-- Left side (About text + Sleeping cat) -->
   <div style="flex: 1; text-align: left;">
     
 🎓 B.Tech CSE student at Assam Down Town University  
@@ -22,11 +22,13 @@
 🎮 Gamer | 🎵 Lo-fi Coder | 🤝 Open to collaboration  
 📄 [Resume](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
 
+  <br />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="150" alt="Sleeping Cat" />
   </div>
 
-  <!-- Right side (Sleeping cat image) -->
+  <!-- Right side (Funny cat GIF) -->
   <div style="margin-left: 20px;">
-    <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="150" alt="Sleeping Cat" />
+    <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/funny-cats-funny.gif?raw=true" width="200" alt="Funny Cat GIF" />
   </div>
 
 </div>
