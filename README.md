@@ -13,22 +13,24 @@
 </h1>
 
 ## 👨‍💻 About Me
-<table style="border-collapse: collapse; border: none;" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Left side (About text) -->
-    <td width="70%" align="left" style="border: none; padding: 0;">
-🎓 B.Tech CSE student at Assam Down Town University  
-🌱 Currently exploring **React | Node.js | MongoDB | Python**  
-🔭 Building: Portfolio + Async Apps  
-🎮 Gamer | 🎵 Lo-fi Coder | 🤝 Open to collaboration  
-📄 [Resume](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
-    </td>
-    <!-- Right side (Funny cat GIF only) -->
-    <td width="30%" align="right" style="border: none; padding: 0;">
-      <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/funny-cats-funny.gif?raw=true" width="200" alt="Funny Cat GIF" />
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <!-- Left text column -->
+  <div style="flex: 0 0 65%; line-height: 1.5;">
+    🎓 B.Tech CSE student at Assam Down Town University<br />
+    🌱 Currently exploring <strong>React | Node.js | MongoDB | Python</strong><br />
+    🔭 Building: Portfolio + Async Apps<br />
+    🎮 Gamer | 🎵 Lo-fi Coder | 🤝 Open to collaboration<br />
+    📄 <a href="https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf">Resume</a>
+  </div>
+
+  <!-- Right image column -->
+  <div style="flex: 0 0 30%; text-align: right;">
+    <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/funny-cats-funny.gif?raw=true" alt="Funny Cat GIF" width="200" />
+  </div>
+
+</div>
 
 ---
 
