@@ -15,8 +15,12 @@
 
 <!-- ABOUT ME -->
 ## **About Me**
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />
 
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/funny-cats-funny.gif?raw=true" width="150" alt="Funny Cats GIF" />
+</div>
+
+👤  
 🎓 B.Tech CSE student at Assam Down Town University  
 🌱 Learning: React, Node.js, MongoDB, Python  
 🔭 Building: My personal portfolio, JS utilities, async apps  
