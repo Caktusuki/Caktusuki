@@ -1,20 +1,17 @@
 <!-- TYPING INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=1200&color=15F4EE&center=true&vCenter=true&width=700&lines=%24+echo+'Hey%2C+I%27m+Vicky+aka+Cactus';console.log('Code+%26+Chill');if+(darkMode)+%7B+devPower+*=%E2%88%9E%3B+%7D;while+(alive)+%7B+hack()%3B+game()%3B+%7D;assert(bestFriend+===+debugger)%3B" />
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/a6f230e306e811ed2593571d68777253.jpg?raw=true" width="70" />
-</p>
 
 <!-- NAME SECTION -->
 <h1 align="center">
   Hi, I'm <a href="https://github.com/Caktusuki">Vicky</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
+ <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="150" alt="Sleeping Cat" />
 
 <!-- ABOUT ME -->
 ## **About Me**
-
 <div style="float: right; margin-left: 20px; text-align: center;">
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="150" alt="Sleeping Cat" />
   <br />
   <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/funny-cats-funny.gif?raw=true" width="120" alt="Funny Cats GIF" />
 </div>
