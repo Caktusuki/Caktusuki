@@ -1,28 +1,37 @@
 <!-- TYPING INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=1200&color=15F4EE&center=true&vCenter=true&width=700&lines=%24+echo+'Hey%2C+I%27m+Vicky+aka+Cactus';console.log('Code+%26+Chill');if+(darkMode)+%7B+devPower+*=%E2%88%9E%3B+%7D;while+(alive)+%7B+hack()%3B+game()%3B+%7D;assert(bestFriend+===+debugger)%3B" />
+</p>
 
 <!-- NAME SECTION -->
 <h1 align="center">
   Hi, I'm <a href="https://github.com/Caktusuki">Vicky</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
- <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="150" alt="Sleeping Cat" />
 
-<!-- ABOUT ME -->
-## **About Me**
-<div style="float: right; margin-left: 20px; text-align: center;">
-  <br />
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/funny-cats-funny.gif?raw=true" width="120" alt="Funny Cats GIF" />
+
+## 👨‍💻 About Me
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  
+  <!-- Left side (About text) -->
+  <div style="flex: 1; text-align: left;">
+    
+🎓 B.Tech CSE student at Assam Down Town University  
+🌱 Currently exploring **React | Node.js | MongoDB | Python**  
+🔭 Building: Portfolio + Async Apps  
+🎮 Gamer | 🎵 Lo-fi Coder | 🤝 Open to collaboration  
+📄 [Resume](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
+
+  </div>
+
+  <!-- Right side (Sleeping cat image) -->
+  <div style="margin-left: 20px;">
+    <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/sleepingcat.jpg?raw=true" width="150" alt="Sleeping Cat" />
+  </div>
+
 </div>
 
-🎓 B.Tech CSE student at Assam Down Town University  
-🌱 Learning: React, Node.js, MongoDB, Python  
-🔭 Building: My personal portfolio, JS utilities, async apps  
-🎮 Gamer | 🎵 Lo-fi Coder | 💬 Open to collab  
-📫 Email: [vikyrajdekawork@gmail.com](mailto:vikyrajdekawork@gmail.com)  
-📄 [Resume](https://github.com/Caktusuki/Caktusuki/blob/main/Resume%202024.pdf)  
-⚡ **Fun fact:** I debug better at 2AM than 2PM
+---
 
 <!-- PROFILE TROPHIES -->
 <div align="center">
@@ -87,16 +96,14 @@
 
 ---
 
-<!-- VISITOR COUNTER (WITH NEW GIF) -->
+<!-- VISITOR COUNTER -->
 <p align="center">
   <b style="font-family: 'Fira Code', monospace; font-size: 16px; color: #15f4ee;">
     You're visitor number:
   </b>
 </p>
 <div align="center">
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/funny-cats-funny.gif?raw=true" width="30" />
   <img src="https://komarev.com/ghpvc/?username=Caktusuki" />
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/funny-cats-funny.gif?raw=true" width="30" />
 </div>
 
 <!-- NEON BOTTOM LINE -->
