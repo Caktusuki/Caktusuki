@@ -5,7 +5,7 @@
 
 <!-- YOUR NEW IMAGE RESIZED -->
 <p align="center">
-  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/Profile.png?raw=true" alt="Vicky's New Image" width="350" />
+  <img src="https://github.com/Caktusuki/Caktusuki/blob/main/assets/Profile.png?raw=true" alt="Vicky's New Image" width="1000" />
 </p>
 
 <!-- VISITOR COUNTER -->
