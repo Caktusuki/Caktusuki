@@ -109,9 +109,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Caktusuki&limit=5&theme=calm_pink&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
-<!-- Visit Counter -->
+<!-- Visitor Count Badge -->
 <div>
-  <a href="https://visitcount.itsvg.in/api?id=Caktusuki&icon=1&color=3" target="_blank" rel="noopener noreferrer">
-    <img src="https://visitcount.itsvg.in/api?id=Caktusuki&icon=1&color=3" alt="Visit Count" />
-  </a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Caktusuki" alt="Visitor Count Badge" />
 </div>
