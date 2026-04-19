@@ -1,26 +1,22 @@
-# Hey there 👋
+# Hey 👋 I'm Viky
 
-I'm **Viky**, a developer who enjoys building modern web apps and exploring AI 🤖
-
-I like turning ideas into real projects and learning along the way 🚀
-
----
-
-## ⚡ Tech
-- Web: HTML, CSS, JavaScript, React
-- Backend: Node.js, Python
-- AI/ML: TensorFlow, PyTorch
+Full-Stack Dev | AI Enthusiast 🤖  
+I build web apps & explore AI 🚀  
 
 ---
 
-## 🌐 Connect
-- 💼 LinkedIn: https://linkedin.com/in/vikyraj-deka  
-- 📷 Instagram: https://instagram.com/cactus_uki  
-- 📧 Email: vikyrajdekawork@gmail.com  
+### ⚡ Tech
+HTML • CSS • JS • React • Node • Python • TensorFlow  
 
 ---
 
-## 🎯 Fun
-- I like coding & experimenting  
-- Interested in AI + Web  
-- Always learning something new  
+### 🌐 Connect
+[LinkedIn](https://linkedin.com/in/vikyraj-deka) • 
+[Instagram](https://instagram.com/cactus_uki) • 
+[Email](mailto:vikyrajdekawork@gmail.com)
+
+---
+
+### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Cactusuki&show_icons=true&hide_border=true" height="120"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Cactusuki&hide_border=true" height="120"/>
