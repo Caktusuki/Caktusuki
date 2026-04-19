@@ -8,5 +8,5 @@ I might not see it immediately, but I’ll reply for sure.
 
 ## 📊 Activity Heatmap
 <a href="https://github.com/Cactusuki">
-  <img align="center" src="https://gh-heat.anishroy.com/api/Cactusuki/svg?theme=green" width="800"/>
+  <img align="center" src="https://gh-heat.anishroy.com/api/Caktusuki/svg?theme=green" width="800"/>
 </a>
