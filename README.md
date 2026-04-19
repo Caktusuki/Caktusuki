@@ -14,4 +14,4 @@ If you’re up for something, text me on Instagram or send a mail — I’ll rep
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>
 </p>
 
-<img src="https://www.heatjs.com/api/heatmap/github/Caktusuki.svg" width="100%"/>
+<img src="https://ghchart.rshah.org/Caktusuki" width="100%"/>
