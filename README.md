@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,git,github,vscode,figma&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,git,github,vscode,figma&theme=dark" height="100"/>
 </p>
 
 <p>
