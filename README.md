@@ -1,11 +1,15 @@
-# Hey 👋 I'm Viky
-
-I like cats 🐱, coding, and making games.  
-I listen to music 🎧 and build random projects when I feel like it.  
-If you’re up for something, text me on Instagram or send a mail — I’ll reply 🙂
+<h2 align="left">Hey 👋 I'm Viky</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,git,github,vscode,figma&theme=dark" height="40"/>
+  I like cats 🐱, coding, and making games.<br/>
+  I listen to music 🎧 and build random projects when I feel like it.<br/>
+  If you’re up for something, text me on Instagram or send a mail — I’ll reply 🙂
 </p>
-  <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="120"/>
- 
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,git,github,vscode,figma&theme=dark" height="38"/>
+</p>
+
+<p>
+  <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="110"/>
+</p>
