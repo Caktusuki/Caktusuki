@@ -8,7 +8,7 @@
   📷 <a href="https://instagram.com/cactus_uki">Instagram</a> •  
   📧 <a href="mailto:vikyrajdekawork@gmail.com">Email</a> •  
   💼 <a href="https://linkedin.com/in/vikyraj-deka">LinkedIn</a> •  
-  ▶️ <a href="https://youtube.com/@Cactus-uki">YouTube</a> (stay tuned 👀)
+  ▶️ <a href="https://youtube.com/@Cactus-uki">YouTube</a> 
 </p>
 
 <p>
