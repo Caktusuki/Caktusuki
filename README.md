@@ -11,5 +11,5 @@
 </p>
 
 <p>
-  <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="250"/>
+  <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="500"/>
 </p>
