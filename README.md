@@ -1,10 +1,10 @@
 # Hey 👋 I'm Viky
 
-i like cats 🐱, coding, and making games  
-i listen to music 🎧 and build random projects when i feel like it  
+I like cats 🐱, coding, and making games.  
+I listen to music 🎧 and build random projects when I feel like it.
 
-if you’re up for something just text me on insta or send a mail  
-i might not see it immediately but i’ll reply for sure  
+If you’re up for something, text me on Instagram or send a mail.  
+I might not see it immediately, but I’ll reply for sure.
 
 ---
 
@@ -18,6 +18,7 @@ i might not see it immediately but i’ll reply for sure
 
 ---
 
-### 📊
-<img src="https://github-readme-stats.vercel.app/api?username=Cactusuki&show_icons=true&hide_border=true" height="120"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cactusuki&layout=compact&hide_border=true" height="120"/>
+<a href="https://github.com/Cactusuki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cactusuki&show_icons=true&hide_border=true" height="140"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cactusuki&layout=compact&hide_border=true" height="140"/>
+</a>
