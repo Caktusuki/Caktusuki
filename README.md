@@ -73,11 +73,11 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue" alt="mlflow" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab" />
@@ -87,16 +87,16 @@
 
 <!-- GitHub Stats -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cactusuki&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Caktusuki&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Cactusuki&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caktusuki&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cactusuki&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <!-- GitHub Trophies -->
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=Caktusuki&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Cactusuki&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <!-- Random Dev Quote -->
@@ -106,6 +106,5 @@
 
 <!-- Top Contributed Repo -->
 <div>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Caktusuki&limit=5&theme=calm_pink&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Cactusuki&limit=5&theme=calm_pink&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
-
