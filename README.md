@@ -3,12 +3,22 @@
 <p>
   I like cats 🐱, coding, and making games.<br/>
   I listen to music 🎧 and build random projects when I feel like it.<br/>
-  If you’re up for something, text me on Instagram or send a mail — I’ll reply 🙂<br/><br/>
-  
-  📷 <a href="https://instagram.com/cactus_uki">Instagram</a> •  
-  📧 <a href="mailto:vikyrajdekawork@gmail.com">Email</a> •  
-  💼 <a href="https://linkedin.com/in/vikyraj-deka">LinkedIn</a> •  
-  ▶️ <a href="https://youtube.com/@Cactus-uki">YouTube</a> 
+  If you’re up for something, text me or send a mail — I’ll reply 🙂
+</p>
+
+<p>
+  <a href="https://instagram.com/cactus_uki">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32"/>
+  </a>
+  <a href="mailto:vikyrajdekawork@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/>
+  </a>
+  <a href="https://linkedin.com/in/vikyraj-deka">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+  </a>
+  <a href="https://youtube.com/@Cactus-uki">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="32"/>
+  </a>
 </p>
 
 <p>
