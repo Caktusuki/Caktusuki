@@ -9,6 +9,6 @@ If you’re up for something, text me on Instagram or send a mail — I’ll rep
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caktusuki&hide_border=true" height="150"/>
+  <img src="https://ghchart.rshah.org/Caktusuki" height="140"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caktusuki&hide_border=true" height="140"/>
 </p>
