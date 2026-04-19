@@ -34,7 +34,7 @@
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&theme=blueberry&count_private=true&hide_border=true&line_height=20"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caktusuki&layout=compact&theme=blueberry&count_private=true&hide_border=true"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caktusuki&layout=compact&theme=blueberry&hide_border=true&hide=jupyter%20notebook&langs_count=6"/>
   </p>
 
 </details>
