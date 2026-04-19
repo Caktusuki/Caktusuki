@@ -28,3 +28,13 @@
 <p>
   <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="200"/>
 </p>
+
+<details>
+  <summary>GitHub Stats ⚡</summary>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Caktusuki&theme=blueberry&count_private=true&hide_border=true&line_height=20"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caktusuki&layout=compact&theme=blueberry&count_private=true&hide_border=true"/>
+  </p>
+
+</details>
