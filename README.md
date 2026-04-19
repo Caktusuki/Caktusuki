@@ -8,16 +8,16 @@
 
 <p>
   <a href="https://instagram.com/cactus_uki">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32"/>
+    <img src="https://img.shields.io/badge/instagram-@cactus__uki-E4405F?logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:vikyrajdekawork@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/>
+    <img src="https://img.shields.io/badge/email-send%20mail-D14836?logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/vikyraj-deka">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+    <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@Cactus-uki">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="32"/>
+    <img src="https://img.shields.io/badge/youtube-stay%20tuned-FF0000?logo=youtube&logoColor=white"/>
   </a>
 </p>
 
