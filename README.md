@@ -1,4 +1,4 @@
-<h1>Hey 👋 I'm Viky</h1>
+<h2>Hey 👋 I'm Viky</h2>
 
 <p>
   I like cats 🐱, coding, and making games.<br/>
@@ -7,9 +7,9 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,git,github,vscode,figma&theme=dark" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,git,github,vscode,figma&theme=dark" height="60"/>
 </p>
 
 <p>
-  <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="180"/>
+  <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="200"/>
 </p>
