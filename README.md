@@ -18,7 +18,8 @@ I might not see it immediately, but I’ll reply for sure.
 
 ---
 
-<!-- HeatJS GitHub‑style heatmap (green squares) -->
+# HeatJS GitHub‑style heatmap in your README
+
 <a href="https://github.com/Caktusuki">
   <img align="center" src="https://www.heatjs.com/api/heatmap/github/Caktusuki.svg" width="800"/>
 </a>
