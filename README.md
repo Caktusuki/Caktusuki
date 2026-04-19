@@ -18,12 +18,7 @@ I might not see it immediately, but I’ll reply for sure.
 
 ---
 
-<!-- Dark green‑dot heatmap -->
+<!-- HeatJS GitHub‑style heatmap (green squares) -->
 <a href="https://github.com/Caktusuki">
-  <img align="center" src="https://gh-heat.anishroy.com/api/Caktusuki/svg?theme=github-dark" width="800"/>
-</a>
-
-<!-- Dark activity line graph -->
-<a href="https://github.com/Caktusuki">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Caktusuki&theme=github-dark" width="800"/>
+  <img align="center" src="https://www.heatjs.com/api/heatmap/github/Caktusuki.svg" width="800"/>
 </a>
