@@ -7,9 +7,9 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,git,github,vscode,figma&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,git,github,vscode,figma&theme=dark" height="80"/>
 </p>
 
 <p>
-  <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="200"/>
+  <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="250"/>
 </p>
