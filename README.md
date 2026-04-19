@@ -1,4 +1,4 @@
-# Hey 👋 I'm Viky • 
+# Hey 👋 I'm Viky 
 ---
 I like cats 🐱, coding, and making games.  
 I listen to music 🎧 and build random projects when I feel like it.  
