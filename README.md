@@ -1,4 +1,4 @@
-<h2>Hey 👋 I'm Viky</h2>
+<h1>Hey 👋 I'm Viky</h1>
 
 <p>
   I like cats 🐱, coding, and making games.<br/>
@@ -11,5 +11,5 @@
 </p>
 
 <p>
-  <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="130"/>
+  <img src="https://ghchart.rshah.org/Caktusuki?months=2" height="180"/>
 </p>
