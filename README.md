@@ -1,7 +1,7 @@
 <h2>Hey 👋 I'm Viky</h2>
 
 <p>
-  I like cats 🐱, coding, and making websites and work no new things.<br/>
+  I like cats 🐱, coding, and making websites and learning new things.<br/>
   I listen to music 🎧 and build random projects when I feel like it.<br/>
   If you’re up for something, text me or send a mail — I’ll reply 🙂
 </p>
